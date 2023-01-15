@@ -2,7 +2,6 @@
 
 The goal of combat is to use your tactics effectively to defeat your enemies, using a combination of movement, attacks, and abilities to outmaneuver and outsmart them. The players can also use teamwork, tactics and strategy to overcome the challenges they face.
 
-
 ## Reactions
 
 "Reaction": The order in which characters take their turns in combat, determined by their Reaction score. Your reaction is the highest of your Class Scores + 2d20. Reroll this each combat.
@@ -24,7 +23,21 @@ On a player's turn, they can choose to use their two Tactics to move, attack, de
 - "Concentrate on a spell": Allows the character to maintain concentration on a spell, either to keep it active or to make it more powerful. The concentration roll is determined by the character's Insight score and the character's proficiency in spellcasting.
 - "Use an item": Allows the character to use an item, such as a potion or a scroll, to gain an advantage in combat. The item roll is determined by the character's scores that are relevant to the item.
 
-## How to do it
+## Before Combat
+
+Before combat begins, the DM will roll for "Awareness" for all characters involved in the encounter.
+
+Any character whose roll is higher than the Threshold set by the GD is not surprised and can act normally during the first Timeblock of combat.
+
+Any character whose roll is lower than the Threshold set by the GD is surprised and can only take one Physical Tactic or Mental Tactic on their first turn, and their "Readiness" score is considered to be 10 for the first Timeblock of combat.
+
+After the first Timeblock of combat, characters who were surprised act normally, and their "Readiness" score is determined normally.
+
+Keep in mind that being surprised does not guarantee that a character will lose the fight, it just hinders their actions in the first moments of the fight, giving an advantage to the non-surprised characters.
+
+The GD can also decide that certain characters are immune to surprise if they are always on high alert, for example, guards on patrol or a character with a heightened sense of awareness.
+
+## During Combat
 
 - Determine the order of combat using the "Readiness" score. The character with the highest Readiness goes first, followed by the character with the next highest, and so on.
 
@@ -39,3 +52,5 @@ On a player's turn, they can choose to use their two Tactics to move, attack, de
 - Repeat steps 2-6 until the combat is over.
 
 - Keep track of hit points, if applicable, and any other effects that last for more than one Timeblock.
+
+
