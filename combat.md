@@ -53,4 +53,18 @@ The GD can also decide that certain characters are immune to surprise if they ar
 
 - Keep track of hit points, if applicable, and any other effects that last for more than one Timeblock.
 
+## Movement
 
+Movement in this RPG is measured in "paces". A pace is roughly equivalent to one-and-one-half yards, or 150 centimeters. 
+
+Characters can move a number of paces depending on their Ancestry and Calling. For example, a Nimbles Ancestry may move faster than a Giants Ancestry. A Blademaster Calling may move differently than a Soulbinder Calling.
+
+Characters can move in any direction, including diagonally. They can also move through difficult terrain, such as underbrush or over rocky ground, at a reduced pace.
+
+Characters can also choose to move at a slower pace in order to be more stealthy, and can roll for "Sneak" to try and avoid detection.
+
+Characters can change positions as a physical tactic during their turn.
+
+Characters can be in a variety of positions such as standing, crouching, and laying. These positions can affect the character's ability to defend and attack.
+
+Keep in mind that movement and positioning can greatly affect the outcome of combat, and should be considered carefully when making decisions during a fight.
