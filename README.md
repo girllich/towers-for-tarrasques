@@ -1,2 +1,2 @@
 # towers-for-tarrasques
-Creative Commons Share-Alike Role Playing Game
+Creative Commons 1.0
