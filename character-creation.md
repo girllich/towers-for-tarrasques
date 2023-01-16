@@ -14,11 +14,25 @@ Choose an ancestry: The ancestry of your character can affect their innate abili
 - "Shapeshifters": Ancestry: +5 to Finesse and +2 to Awareness. These bonuses reflect the Shapeshifters' agility and dexterity, as well as their heightened perception and intelligence
 - "Peoples." These can have any ancestry bonuses, as long as they are in the format +5, +2, including to the same stat. These bonuses reflect their idiosyncracy
 
-# Innate Abilities
+## Innate Abilities
 
 Innate abilities represent the natural talents and abilities of a character. They include "Might", "Finesse", "Resilience", "Insight", "Awareness", and "Presence". These scores are used to determine a character's skills, resistance checks, and ability to perform certain tasks.
 
-## Creation Point Buy
+Might: This ability represents a character's physical power and endurance. A character with a high Might score will be able to lift heavy objects, resist physical damage and have a higher hit point total.
+
+Finesse: This ability represents a character's agility, coordination and precision. A character with a high Finesse score will be able to perform complex physical maneuvers with ease, and will be more likely to hit with ranged and melee attacks.
+
+Resilience: This ability represents a character's ability to resist physical and mental damage. A character with a high Resilience score will be able to shrug off blows that would incapacitate others, and will have a higher chance of saving against spells and other harmful effects.
+
+Insight: This ability represents a character's ability to understand and interpret the world around them. A character with a high Insight score will be able to make sense of complex situations, spot hidden clues and have a greater understanding of magic.
+
+Awareness: This ability represents a character's ability to perceive their surroundings. A character with a high Awareness score will be able to spot hidden enemies, avoid traps, and have a greater chance of noticing important details.
+
+Presence: This ability represents a character's ability to interact with others. A character with a high Presence score will be able to persuade, intimidate, and interact with others in a more convincing way.
+
+Each of these abilities will be used in various ways throughout the game, and will be the basis for many of the character's abilities and actions. For example, a character with a high Might score will be able to wield heavy weapons, while a character with a high Finesse score will be able to perform complex acrobatic maneuvers.
+
+## Creation Point Buy
 
 Each player starts with a set number of creation points to spend on their ability scores. You could give each player 75 creation points to spend, for example.
 
@@ -43,15 +57,15 @@ Each score within the range has a point value assigned to it. For example:
 
 Players can then spend their creation points to raise their ability scores. For example, if a player wants to have an "Might" of 25, they would need to spend 14 creation points. 
 
-## Dice Roll
+## Dice Roll
 
 roll 5d6 and drop the lowest value. This way, the minimum score would be 4 (if you roll all 1's) and the maximum score would be 24 (if you roll all 6's) and it gives a range of 4-24. If the sum of your rolls is not more than 100, double the lowest. 
 
-## Resistance Checks
+## Resistance Checks
 
 "Resistance Checks" test their ability to resist external forces that could harm them, such as spells, traps, or environmental hazards. The value of your resistance check is 1/4 of your Innate Ability added to your Level Bonus
 
-# Vitality Points
+# Vitality Points
 
 Each Ancestry starts with a different number of Vitality Points. Further vitality points will be determined by your Calling
 
@@ -65,7 +79,7 @@ Each Ancestry starts with a different number of Vitality Points. Further vitalit
 - Shapeshifters: Roll 1d20+6 to determine their starting Vitality Points.
 - Peoples: Roll a 3d6+6 to determine their starting Vitality Points.
 
-# Callings
+# Callings
 
 Choose a calling: The calling of your character determines their role in combat, their starting abilities, and the type of spells or special abilities they have access to. Examples of callings could be the "Protectors" or the "Explorers".
 
