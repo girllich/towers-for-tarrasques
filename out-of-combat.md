@@ -12,3 +12,4 @@
 | Navigate | Determine the party's location and the best route to their destination | 4 Points |
 | Keep Watch | Stay alert for potential threats while the rest of the party rests | 3 Points |
 | Long Rest | Sleep or otherwise recover energy. This could restore Effort Points | 0 Points |
+| Engage in Combat | Participate in a round of combat, whether it's physical or magical | 1 Points |
