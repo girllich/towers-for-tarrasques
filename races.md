@@ -5,6 +5,7 @@
 | Human | 7 | 40 |
 | Halfling | 6 | 35 |
 
+In character creation, each player chooses 3-5 boxes to define their character's abilities, traits, and backstory. Each box provides various bonuses to their statistics, skills, and resources, allowing players to mix and match to create a unique character. The contents of each box can be determined using dice rolls, adding an element of chance to character creation. Some boxes have prerequisites, meaning they require another specific box to be chosen first.
 
 | Box Name | Description | Effects |
 |----------|-------------|---------|
@@ -18,9 +19,9 @@
 | Expert | You've spent years studying a subject | +5d3 to a mental skill, +3d3 to 3 other skills, -1 EP to the skill |
 | Weapon Master | You are a fighter | You gain +5d3 to your weapon skill, +2d6 damage to attacks, -1 AP cost, +5d4 EP |
 | Settled | You spent some time settled down | You gain a house, 1d20 contacts, and either Minor Wealth, or a family. You are 10 years older. |
-| Impoverished | You or your family used to have money | You gain a large rambling house, 3d20 contacts, Minor Wealth, 1 Servant, +3d2 to 3 Social skills |
+| History of Wealth | You or your family used to have money | You gain a large rambling house, 3d20 contacts, Minor Wealth, 1 Servant, +3d2 to 3 Social skills |
+| Wealth | You have money | Major Wealth |
 | Stone Killer | You have training in killing | You gain the Assassinate action, which adds +6 AP to cost, and allows you to roll again for damage against things you have fought before. You gain +3d2 to 3 weapon skills and stealth |
-| Holy Acolyte | You have devoted yourself to the service of a deity. | +2d4 to Wisdom, +5d2 to Religion, access to 3d6 divine spells, +3d2 to Healing skill |
-| Ranger | You've lived in the wilderness and know the land like the back of your hand. | +3d2 to Survival and Nature skills, -1 EP cost for Survival-related tasks, gain Animal Companion |
-| Quick Learner | You're talented at picking up new skills quickly. | +2d2 to any 4 skills of your choice, half the time to learn new skills |
+| Holy | You have devoted yourself to the service of a deity. | +2d4 to Wisdom, +2d2 to Intelligence, +5d2 to Religion, access to 3d6 divine spells, +4d4 to Healing skill |
+| Ranger | You've lived in the wilderness and know the land like the back of your hand. | +3d2 to Survival and Nature skills, -1 EP cost for Survival, Travel, gain 5 Blocks of Animal Companions |
 | Leader | You naturally command respect and inspire others. | +2d2 to Charisma, Leadership skill, 1d4+2 followers |
