@@ -21,3 +21,5 @@
 | Full Day of Rest | A full day of minimal activity, focusing on relaxation and recuperation | 35 Points |
 
 When a character's Effort Points fall below zero, all actions that cost Action Points require an additional Action Point to perform, and all efforts that cost Effort Points require an additional Effort Point. This represents the strain of pushing beyond one's normal limits. If a character cannot pay the increased cost of an action, they cannot perform that action until they have rested and their Effort Points are above zero again.
+
+For every additional Action Point spent on an action, the character gets a +1 bonus to the roll to determine the success of that action. Similarly, for every additional Effort Point spent on an effort, the character gets a +1 bonus to the roll to determine the success of that effort. Note that spending additional points in this way increases the chance of success, but it does not guarantee it.
