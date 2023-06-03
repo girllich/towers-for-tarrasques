@@ -10,75 +10,41 @@ The goal of combat is to use your tactics effectively to defeat your enemies, us
 
 In this RPG, time is divided into "Timeblocks", which are similar to rounds in other RPGs. During a Timeblock, each character has 9 Points" (AP) to spend on various actions.
 
-Each action a character takes costs a certain amount of AP, but the cost may vary depending on their Ancestry. For example, moving may cost 1 AP for an Nimbles Ancestry and 2 AP for a Giants Ancestry.
-
-Some actions may have additional costs, such as rolling for "Perception" to spot a hidden object or rolling for "Stealth" to move unseen.
-
-Characters can choose to spend all of their AP in one Timeblock or save some for future Timeblocks.
-
-Keep in mind that the amount of AP a character has, and how it is spent, can greatly affect the outcome of combat, and should be considered carefully when making decisions during a fight.
-
-The GD will have the final say on the AP cost of actions, based on the situation and context.
-
-## Action Point Costs
-
-Movement: Moving one or a series of short distances during your turn, up to your speed in paces, costs 3 AP.
-
-Attack: Making a basic melee or ranged attack costs 5 AP. Additional costs may apply for certain weapons or special abilities. Ancestries such as Nimbles may have a reduced cost for attacks, while others such as Giants may have an increased cost.
-
-Defend: Using an action to brace for an incoming attack or take cover behind an obstacle costs 2 AP.
-
-Feint: Using an action to deceive an opponent and gain an advantage in combat costs 2 AP.
-
-Spellcasting: The cost of spellcasting varies based on the complexity and power of the spell being casted. The cost of spellcasting can be decided by the GD, but it should be kept in mind that powerful spells will cost more AP than simple spells.
-
-Use Item: Using an item, such as a potion or tool, costs 1 AP.
-
-Use Skill: Attempting to use a skill, such as "Perception" to spot a hidden object or "Stealth" to move unseen, costs 1 AP.
-
-Shift: Performing a quick step to move out of an opponent's reach or to get into a better position costs 1 AP.
-
-Concentrate: Using an action to maintain concentration on a spell or other ability that requires it, such as a spell with a duration, costs 1 AP.
-
-Grapple: Attempting to grapple an opponent, either to restrain them or to move them, costs 3 AP.
-
-Disarm: Attempting to disarm an opponent, either by knocking a weapon out of their hand or by using a disarm ability, costs 2 AP.
-
-Trip: Attempting to trip an opponent, either by using a weapon or by using a trip ability, costs 2 AP.
-
-Tumble: Attempting to tumble through an opponent's space, either to move past them or to gain an advantage in combat, costs 2 AP.
-
-Shove: Attempting to shove an opponent, either to move them or to knock them off balance, costs 2 AP.
-
-Sitting: Sitting down to rest or to gain a defensive advantage costs 1 AP, or 0 with a successful Swashbuckling Skill roll.
-
-Lying down: Lying down to rest or to gain a defensive advantage costs 2 AP, or 0 with a successful Swashbuckling Skill roll. 
-
-Standing up: Standing up from a seated or prone position costs 3 AP, or 0 with a successful Swashbuckling Skill roll.
-
-Climbing: Climbing a wall or other surface costs 3 AP, or 0 with a successful Swashbuckling Skill roll.
-
-Jumping: Jumping a short distance is generally part of your movement, jumping a long distance costs 4 AP.
-
-Swimming: Swimming in water, unless you have a swim speed, costs 4 AP.
-
-Crawling: Crawling on hands and knees costs an additional 2 AP for the same movement.
-
-Dragging: Dragging an object or another creature costs additional 2 AP for the same movement.
-
-Sneak: Moving stealthily costs an additional 4 AP for your full movement.
-
-Open door: Opening, or trying to open a normal door costs 1 AP.
+| Action Type | Description                                         | Action Point Cost |
+|-------------|-----------------------------------------------------|-------------------|
+| Attack      | Engage an enemy with a physical weapon or hand-to-hand combat | 4 Points         |
+| Spell       | Cast a magic spell, the cost may vary depending on the spell's power  | 5 Points         |
+| Move        | Advance 1 yard. Longer distances consume proportionally more points | 1 Point per yard |
+| Dodge       | Avoid an incoming attack or trap | 3 Points         |
+| Use Item    | Use a consumable item, such as a potion or scroll | 2 Points         |
+| Interact    | Interact with an object in the environment (e.g. open a door, flip a switch) | 2 Points         |
+| Communicate | Speak, signal, or otherwise communicate complex information | 1 Point          |
+| Perception  | Actively look, listen, or otherwise sense your surroundings more keenly | 3 Points         |
+| Ready/Prepare | Ready an item, prepare a stance or prepare for a specific reaction | 2 Points        |
+| Aid/Assist  | Help a party member with their action, giving them advantage | 3 Points         |
+| Defend      | Take cover behind an obstacle | 2 Points         |
+| Feint       | Deceive an opponent and gain an advantage in combat | 2 Points         |
+| Use Skill   | Use a skill, like Perception or Stealth | 1 Point   |
+| Concentrate | Maintain concentration on a spell or other ability | 1 Point          |
+| Grapple     | Grapple an opponent to restrain or move them | 3 Points |
+| Disarm      | Disarm an opponent by knocking a weapon out of their hand or by using a disarm ability | 2 Points |
+| Trip        | Trip an opponent by using a weapon or by using a trip ability | 2 Points |
+| Tumble      | Tumble through an opponent's space to move past them or gain an advantage in combat | 2 Points |
+| Shove       | Shove an opponent to move them or knock them off balance | 2 Points |
+| Sitting     | Sit down to rest or gain a defensive advantage | 1 Point  |
+| Lying Down  | Lie down to rest or gain a defensive advantage | 2 Points |
+| Standing Up | Stand up from a seated or prone position | 3 Points  |
+| Climbing    | Climb a wall or other surface | 3 Points          |
+| Jumping     | Jump a short or long distance | 1 Point or 4 Points |
+| Swimming    | Swim in water | 4 Points       |
+| Crawling    | Crawl on hands and knees | 1 Point + 2 Points     |
+| Dragging    | Drag an object or another creature | 1 Point + 2 Points |
+| Sneak       | Move stealthily | 1 Point + 4 Points |
+| Open Door   | Open, or attempt to open, a door | 1 Point       |
 
 ### Spellcasting
 
-spellcasting can cost a variable amount of Action Points (AP) depending on the complexity and power of the spell being casted. Some spells may have a base cost of 3 AP, while others may cost 5 or more. The GD can adjust the costs of spellcasting based on the situation and context.
-
-For example:
-
-A low-level spell, such as a basic healing spell, may cost 3 AP to cast.
-A high-level spell, such as a spell that does massive damage, may cost 8 AP to cast.
-A spell that is unique to a particular Ancestry or Calling may cost less or more AP to cast.
+spellcasting can cost a variable amount of Action Points (AP) depending on the complexity and power of the spell being casted. Some spells may have a base cost of 5 AP, while others may cost 10 or more. The GD can adjust the costs of spellcasting based on the situation and context.
 
 ### Interrupts:
 
