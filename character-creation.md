@@ -1,18 +1,12 @@
-# Character Creation
+- "Nimbles": 
+- "Stonelords": 
+- "Elders": 
+- "Feybloods": 
+- "Ironborns": 
+- "Dragonkin":
+- "Giants": 
+- "Peoples."
 
-## Ancestry
-
-Choose an ancestry: The ancestry of your character can affect their innate abilities, traits, and starting equipment. 
-
-- "Nimbles": Ancestry: +5 to Finesse and +2 to Awareness, These bonuses reflect the Nimbles' agility and dexterity, as well as their heightened perception
-- "Stonelords": Ancestry: +5 to Resilience and +2 to Might, These bonuses reflect the Stonelords' physical toughness and ability to resist damage, as well as their stamina and endurance.
-- "Elders": Ancestry: +5 to Insight and +2 to Presence, These bonuses reflect the Elders' wisdom and understanding of the world around them, as well as their leadership and ability to inspire others.
-- "Feybloods": Ancestry: +5 to Awareness and +2 to Finesse, These bonuses reflect the Feybloods' heightened perception and cleverness, as well as their agility and dexterity.
-- "Ironborns": Ancestry: +5 to Might and +2 to Resilience, These bonuses reflect the Ironborns' physical toughness and ability to resist damage, as well as their stamina and ability to endure.
-- "Dragonkin": Ancestry: +5 to Resilience and +2 to Insight. These bonuses reflect the Dragonkin's physical toughness and resistance to damage, as well as their heightened understanding of magic and the arcane.
-- "Giants": Ancestry: +5 to Might and +2 to Presence. These bonuses reflect the Giants' physical strength and stamina, as well as their leadership and ability to intimidate others.
-- "Shapeshifters": Ancestry: +5 to Finesse and +2 to Awareness. These bonuses reflect the Shapeshifters' agility and dexterity, as well as their heightened perception and intelligence
-- "Peoples." These can have any ancestry bonuses, as long as they are in the format +5, +2, including to the same stat. These bonuses reflect their idiosyncracy
 
 ## Innate Abilities
 
