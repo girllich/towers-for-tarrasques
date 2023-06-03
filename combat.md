@@ -1,4 +1,4 @@
-# Combat
+# Physical Combat
 
 The goal of combat is to use your tactics effectively to defeat your enemies, using a combination of movement, attacks, and abilities to outmaneuver and outsmart them. The players can also use teamwork, tactics and strategy to overcome the challenges they face.
 
@@ -39,19 +39,9 @@ In this RPG, time is divided into "Timeblocks", which are similar to rounds in o
 | Sneak       | Move stealthily | 1 Point + 4 Points |
 | Open Door   | Open, or attempt to open, a door | 1 Point       |
 
-### Spellcasting
-
-
-
-spellcasting can cost a variable amount of Action Points (AP) depending on the complexity and power of the spell being casted. Some spells may have a base cost of 5 AP, while others may cost 10 or more. The GD can adjust the costs of spellcasting based on the situation and context.
-
 ### Interrupts:
 
-Some actions and abilities allow characters to take an interrupt action. These interrupts are taken in response to a specific trigger, such as an enemy's attack or spell.
-Interrupts can be used to disrupt an opponent's action, defend against an incoming attack, or to gain an advantage in combat.
-Interrupts may cost AP, but the cost varies depending on the specific interrupt and the character's Ancestry and Calling.
-Interrupts can be used to dodge, parry or block an incoming attack.
-Interrupts can be used to make a saving throw against a spell or other effect.
+Some actions and abilities allow characters to take an interrupt action. These interrupts are taken in response to a specific trigger, such as an enemy's attack or spell. Interrupts can be used to disrupt an opponent's action, defend against an incoming attack, or to gain an advantage in combat. Interrupts may cost AP. Interrupts can be used to dodge, parry or block an incoming attack. Interrupts can be used to make a saving throw against a spell or other effect.
 
 ### Interrupt Strike:
 
@@ -63,9 +53,8 @@ The Interrupt Strike costs 1 AP. Characters with the ability to make Interrupt S
 
 Before Combat:
 
-Each character starts with 9 AP at the start of the first timeblock, and at the top of each subsequent timeblock. These AP can't be used until it's the character's turn unless you're using an interrupt.
-Before their first turn, players roll for Readiness to determine the order of actions during the first timeblock of combat.
-Players may choose to spend some of their AP to increase their Readiness roll before combat begins.
+Each character starts with 7 AP at the start of the first timeblock, and at the top of each subsequent timeblock. These AP can't be used until it's the character's turn unless you're using an interrupt. Before their first turn, players roll for Readiness to determine the order of actions during the first timeblock of combat.Players may choose to spend some of their AP to increase their Readiness roll before combat begins.
+
 Surprise:
 
 If a character or group is surprised, they may not spend AP on their first timeblock of combat.
