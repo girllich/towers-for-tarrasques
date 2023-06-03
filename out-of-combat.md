@@ -11,14 +11,15 @@
 | Repair Equipment | Repair damaged equipment, such as weapons or armor | 5 Points |
 | Navigate | Determine the party's location and the best route to their destination | 4 Points |
 | Keep Watch | Stay alert for potential threats while the rest of the party rests | 3 Points |
-| Engage in Combat | Participate in a round of combat, whether it's physical or magical | 1 Points |
+| Engage in Combat | Participate in a round of life-or-death physical combat | 1 Points |
+| Cast Major Spell | Cast a major spell | 3-10 Points |
 
 
 | Rest Type | Description | Effort Points Restored |
 |-----------|-------------|------------------------|
-| Short Rest | A brief pause in activities, such as a meal break or a short breather | 10 Points |
-| Long Rest | A full night's sleep, around 8 hours | 25 Points |
-| Full Day of Rest | A full day of minimal activity, focusing on relaxation and recuperation | 35 Points |
+| Stopping | A brief pause |  1 Point per ten minutes, up to two hours |
+| Sleeping | Enough sleep | 10 points per hour, up to ten hours |
+| Eating | Enough food | 8 points per full meal, 30 minutes, max 3 times a day |
 
 When a character's Effort Points fall below zero, all actions that cost Action Points require an additional Action Point to perform, and all efforts that cost Effort Points require an additional Effort Point. This represents the strain of pushing beyond one's normal limits. If a character cannot pay the increased cost of an action, they cannot perform that action until they have rested and their Effort Points are above zero again.
 
