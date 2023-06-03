@@ -19,3 +19,5 @@
 | Short Rest | A brief pause in activities, such as a meal break or a short breather | 10 Points |
 | Long Rest | A full night's sleep, around 8 hours | 25 Points |
 | Full Day of Rest | A full day of minimal activity, focusing on relaxation and recuperation | 35 Points |
+
+When a character's Effort Points fall below zero, all actions that cost Action Points require an additional Action Point to perform, and all efforts that cost Effort Points require an additional Effort Point. This represents the strain of pushing beyond one's normal limits. If a character cannot pay the increased cost of an action or effort, they cannot perform that action or effort until they have rested and their Effort Points are above zero again."
