@@ -2,10 +2,6 @@
 
 The goal of combat is to use your tactics effectively to defeat your enemies, using a combination of movement, attacks, and abilities to outmaneuver and outsmart them. The players can also use teamwork, tactics and strategy to overcome the challenges they face.
 
-## Reactions
-
-"Reaction": The order in which characters take their turns in combat, determined by their Reaction score. Your reaction is the highest of your Class Scores + 2d20. Reroll this each combat.
-
 ## Timeblocks
 
 In this RPG, time is divided into "Timeblocks", which are similar to rounds in other RPGs. During a Timeblock, each character has 9 Points" (AP) to spend on various actions.
@@ -44,6 +40,8 @@ In this RPG, time is divided into "Timeblocks", which are similar to rounds in o
 | Open Door   | Open, or attempt to open, a door | 1 Point       |
 
 ### Spellcasting
+
+
 
 spellcasting can cost a variable amount of Action Points (AP) depending on the complexity and power of the spell being casted. Some spells may have a base cost of 5 AP, while others may cost 10 or more. The GD can adjust the costs of spellcasting based on the situation and context.
 
