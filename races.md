@@ -16,7 +16,11 @@
 | Intermediate Mage (Requires Apprentice) | You have a mastered a major spell | +1 to Intelligence, +1 major spell, +3d2 minor spells, -1 AP cost to spellcasting |
 | Master Mage (Requires MJ) | You have mastererd a greater spell | +1 greater spell, +3d2 major spells, -1 AP cost to spellcasting, -2 EP cost to spellcasting |
 | Expert | You've spent years studying a subject | +5d3 to a mental skill, +3d3 to 3 other skills, -1 EP to the skill |
-| Weapon Master | You've a fighter | You gain +5d3 to your weapon skill, +2d6 damage to attacks, -1 AP cost, +5d4 EP |
+| Weapon Master | You are a fighter | You gain +5d3 to your weapon skill, +2d6 damage to attacks, -1 AP cost, +5d4 EP |
 | Settled | You spent some time settled down | You gain a house, 1d20 contacts, and either Minor Wealth, or a family. You are 10 years older. |
 | Impoverished | You or your family used to have money | You gain a large rambling house, 3d20 contacts, Minor Wealth, 1 Servant, +3d2 to 3 Social skills |
-| Stone Killer | You have training killing | You gain the Assassinate action, which adds +6 AP to cost, and allows you to roll again for damage against things you have fought before. You gain +3d2 to 3 weapon skills and stealth |
+| Stone Killer | You have training in killing | You gain the Assassinate action, which adds +6 AP to cost, and allows you to roll again for damage against things you have fought before. You gain +3d2 to 3 weapon skills and stealth |
+| Holy Acolyte | You have devoted yourself to the service of a deity. | +2d4 to Wisdom, +5d2 to Religion, access to 3d6 divine spells, +3d2 to Healing skill |
+| Ranger | You've lived in the wilderness and know the land like the back of your hand. | +3d2 to Survival and Nature skills, -1 EP cost for Survival-related tasks, gain Animal Companion |
+| Quick Learner | You're talented at picking up new skills quickly. | +2d2 to any 4 skills of your choice, half the time to learn new skills |
+| Leader | You naturally command respect and inspire others. | +2d2 to Charisma, Leadership skill, 1d4+2 followers |
