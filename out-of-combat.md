@@ -11,5 +11,11 @@
 | Repair Equipment | Repair damaged equipment, such as weapons or armor | 5 Points |
 | Navigate | Determine the party's location and the best route to their destination | 4 Points |
 | Keep Watch | Stay alert for potential threats while the rest of the party rests | 3 Points |
-| Long Rest | Sleep or otherwise recover energy. This could restore Effort Points | 0 Points |
 | Engage in Combat | Participate in a round of combat, whether it's physical or magical | 1 Points |
+
+
+| Rest Type | Description | Effort Points Restored |
+|-----------|-------------|------------------------|
+| Short Rest | A brief pause in activities, such as a meal break or a short breather | 10 Points |
+| Long Rest | A full night's sleep, around 8 hours | 25 Points |
+| Full Day of Rest | A full day of minimal activity, focusing on relaxation and recuperation | 35 Points |
