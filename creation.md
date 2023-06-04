@@ -18,12 +18,12 @@
 | Holy | Devoted to the service of a deity, you command divine power. | Wisdom +2d4, Intelligence +2d2, Religion +5d2, access to 3d6 divine spells, Healing +4d4 | 1 |
 | Ranger | The wilderness is your home; you understand it like no other. | Survival and Nature +3d2, -1 EP cost for Survival, Travel, gain 5 Companion Points | 1 |
 | Leader | With a natural knack for leadership, you inspire and command others. | Charisma +2d2, Leadership skill, 1d4+2 followers | 1 |
-| Nimbles | Agile and quick, you move like the wind. | Agility +3d2, Gain +1 AP, Dodge +4d2 | 1 |
-| Stonelords | Solid as a rock, you embody strength and resilience. | Strength +2d2, Hit Points +4d2, -1 EP cost for mining or woodcutting, EP +2d2 | 1 |
-| Elders | Wise and experienced, your knowledge is vast and deep. | Wisdom +4d2, Gain +2d2 minor spells, Lore +3d2, -1 EP cost for knowledge skills | 1 |
-| Feybloods | Touched by the fey, your blood carries magic and charm. | Charisma +2d3, Gain +2d2 minor spells, Persuasion +4d2 | 1 |
+| Nimble | Agile and quick, you move like the wind. | Agility +3d2, Gain +1 AP, Dodge +4d2 | 1 |
+| Stonelord | Solid as a rock, you embody strength and resilience. | Strength +2d2, Hit Points +4d2, -1 EP cost for mining/woodcutting, EP +10d4 | 1 |
+| Elder | Wise and experienced, your knowledge is vast and deep. | Wisdom +4d2, Gain +2d2 minor spells, Lore +3d2, -1 EP cost for knowledge skills | 1 |
+| Feyblood | Touched by the fey, your blood carries magic and charm. | Charisma +2d3, Gain +2d2 minor spells, Persuasion +4d2 | 1 |
 | Ironspawn | Forged in fire, your will is as strong as iron. | Fortitude +3d2, Hit Points +3d4, -1 EP cost for resistance, EP +2d2 | 1 |
-| Giants | Towering and strong, your strength is awe-inspiring. | Strength +5d4, Hit Points +5d4, -1 AP cost for lifting, EP +5d2 | 1 |
+| Giant | Towering and strong, your strength is awe-inspiring. | Strength +5d4, Hit Points +5d4, -1 AP cost for lifting, EP +5d2 | 1 |
 | Firedrake | Powerful and terrifying, you are a dragon, complete with wings and fearsome abilities. | Strength +5d4, Wings (can fly at 3x walking speed), Breath Weapon (costs 7 AP and 1 EP to use), +10d4 to intimidation, +4d6 EP, +4d6 HP | 3 |
 | Shapeknight | Cursed or blessed, you transform into a large canine or feline at specific times. | Transformation takes 7 AP, and costs 5 EP. and Strength +2d4, Speed +2d4, Night Vision, Bite Attack (costs 4 AP) | 2 |
 | Vampire | Immortal, you survive on the life force of others. | Immortality, Night Vision, Blood Drain (costs 15 AP, restores HP and EP. The person you drain loses all EP and all but 1 HP) | 2 |
@@ -70,3 +70,29 @@ While players are free to play each others' companions, hirelings etc, certain r
 
 Players should discuss and agree on the role and behavior of companions in the game to ensure a fun and balanced experience for everyone. Whether they are used for combat, exploration, or role-playing, companions can add an extra dimension to your RPG adventure
 
+Items:
+
+| Prefix/Suffix | Description | Effects | Cost |
+|---------------|-------------|---------|------|
+| Wave- | Wavy blade design | +2 damage points, +1 to hit | 7 WP |
+| Penny- | Small and lightweight |-3 damage points, -3 to size | 1 WP |
+| War- | Designed for warfare | Adds +1 damage points, +2 to hit | 2 WP |
+| Strong- | Hefty and strong | Adds +2 damage points, +2 AP c | 2 WP |
+| Swift- | Feather light and swift | -1 AP cost for attacking, +1 to hit | 2 WP |
+| -Blade | Standard blade design | 1d6 | 0 WP |
+| -Spear | Long reach | +1 to hit, reach of 10 feet | 2 WP |
+| -Glaive | Blade on a pole | +2 to hit, reach of 10 feet, +1 to damage | 3 WP |
+| -Disc | Circular blade | -1 AP cost for attacking, +1 to damage roll | 2 WP |
+| Eagle's- | Enchanted with the keenness of an eagle | Adds +2 to hit, +1 to Perception checks | 20 WP |
+| -Mace | A heavy club | Adds +3 to damage roll, -1 to hit | 1 WP |
+| Black- | Forged from blackmetal. Quiet as a grave. Is not enchanted | Strikes cannot be heard | 8 WP |
+| Star- | Forged from brightsilver. Penetrates deeper  | Adds +3 to damage and hit rolls | 9 WP |
+| Cross- | Makes ranged weapons slower but easier to load | Adds +2 to hit, +100 range, +3 AP to shoot | 1 WP |
+| -Bow | A long-ranged weapon | Range of 150 feet, 2d8 | 1 WP |
+| Serpent's- | Enchanted with the cunning of a serpent | Adds +3 to damage, +1 to hit, +1 to Deception checks | 25 WP |
+| Thunder- | Enchanted to strike with the force of thunder | Adds +4 to damage, weapon deals thunder damage, may stun opponent | 25 WP |
+| -Whip | Long and flexible | Adds +1 to hit, reach of 15 feet, can disarm opponent | 1 WP |
+| of the Leviathan | Enchanted with the power of a leviathan | Adds +5 to damage, +2 to hit, weapon deals cold damage | 30 WP |
+| of the Wolverine | Returns health | Returns 1 hp to the wielder each timeblock | 20 WP |
+| of the Unicorn | Enchanted with the purity of a unicorn | Weapon deals double radiant damage, +3 to hit | 35 WP |
+| of the Phoenix | Enchanted with the power of a phoenix | Upon destruction weapon is regenerates after 1d4 days | 40 WP |
