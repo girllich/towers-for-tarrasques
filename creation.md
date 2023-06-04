@@ -54,6 +54,7 @@ Boxes aren't just about combat and abilities, however. They can also reflect a c
 | Pack Mule | A sturdy beast of burden | Gain a mule which can carry a significant amount of equipment | 0 CP |
 | Scribe | A knowledgeable helper | Gain a scribe who can assist with research and record-keeping | 1 CP |
 | Trained Monkey | A small, nimble creature | Gain a monkey which can fetch small items and perform simple tasks | 1 CP |
+| Human Level Intelligence | You can add on human level intelligence to each of these. | This allows you to play them as characters, or just have a friend | 1 CP |
 
 Characters can form connections with loyal allies, magical familiars, and majestic mounts. These companions are represented by Companion Points (CP). A character can have any number of companions, as long as the total CP cost does not exceed their maximum CP.
 
