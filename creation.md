@@ -7,8 +7,8 @@
 | Fast | You're fast. | Gain +1 AP | 1 |
 | Charismatic | With a magnetic personality, you can charm and navigate social situations with ease. | Charisma +2d3, Persuasion and Deception +2d2, Minor Wealth, gain the Seduce social action | 1 |
 | Tough | Hardened and sturdy, you're as tough as old tree roots. | Fortitude +2d4, Hit Points +4d4, EP +5d6 | 1 |
-| Master Mage (Requires Minor Mage) | Mastery of a major spell sets you apart as an Intermediate Mage. | Intelligence +1, Gain +1 major spell, +3d2 minor spells, -1 AP cost to spellcasting, +3d4 MP | 1 |
-| Greater Mage (Requires Intermediate Mage) | Mastery of a greater spell crowns you as a Master Mage. | Gain +1 greater spell, +3d2 major spells, -1 AP cost to spellcasting, -2 EP cost to spellcasting, +4d6 MP | 1 |
+| Master Mage (Requires Minor Mage) | Mastery of a major spell sets you apart as an Master Mage. | Intelligence +1, Gain +1 major spell, +3d2 minor spells, -1 AP cost to spellcasting, +3d4 MP | 1 |
+| Greater Mage (Requires Intermediate Mage) | Mastery of a greater spell crowns you as a Greater Mage. | Gain +1 greater spell, +3d2 major spells, -1 AP cost to spellcasting, -2 EP cost to spellcasting, +4d6 MP | 1 |
 | Expert | Years of dedicated study make you an expert in your field. | Gain +5d3 to a mental skill, +3d3 to 3 other skills, -1 EP to the skill, +8d2 EP | 1 |
 | Weapon Master | A true fighter, you're a master of Martial Arts. | Gain +5d3 to your weapon skill, +2d6 damage to attacks, -1 AP cost, EP +5d4 | 1 |
 | Settled | Having settled down for a while, you have established connections and a place to call home. | Gain a house, 2d20 contacts, and either Minor Wealth or a family (1d4 companion points)| 1 |
@@ -20,13 +20,13 @@
 | Leader | With a natural knack for leadership, you inspire and command others. | Charisma +2d2, Leadership skill, 1d4+2 followers | 1 |
 | Nimble | Agile and quick, you move like the wind. | Agility +3d2, Gain +1 AP, Dodge +4d2 | 1 |
 | Stonelord | Solid as a rock, you embody strength and resilience. | Strength +2d2, Hit Points +4d2, -1 EP cost for mining/woodcutting, EP +10d4 | 1 |
-| Elder | Having magically extended your life, you decided to learn | Wisdom +4d2, Gain +4d2 minor and major spells, Lore +3d2, -1 EP cost for knowledge skills, doubled lifespan | 1 |
+| Elder | Having magically extended your life, you've learned a thing or two in the century since | Wisdom +4d2, Gain +4d2 minor and major spells, Lore +3d2, -1 EP cost for knowledge skills, tripled lifespan | 1 |
 | Lich | You magically and unnaturally made yourself immortal | Intelligence +4d2, Gain +4d2 minor, major, and greater spells, Immortality. You come back in 3 days after you die. | 8 |
 | Feyblood | Touched by the fey, your blood carries magic and charm. | Charisma +2d3, Gain +2d2 minor spells, +4d2 Social Points | 1 |
 | Ironspawn | Forged in fire, your will is as strong as iron. | Fortitude +3d2, Hit Points +3d4, -1 EP cost for resistance, EP +2d2 | 1 |
 | Giant | Towering and strong, your strength is awe-inspiring. | Strength +5d4, Hit Points +5d4, -1 AP cost for lifting, EP +5d2 | 1 |
 | Firedrake | Powerful and terrifying, you are a dragon, complete with wings and fearsome abilities. | Strength +5d4, Wings (can fly at 3x walking speed), Breath Weapon (costs 7 AP and 1 EP to use), +10d4 to intimidation, +4d6 EP, +4d6 HP | 3 |
-| Shapeknight | Cursed or blessed, you transform into a large canine or feline at specific times. | Transformation takes 7 AP, and costs 5 EP. and Strength +2d4, Speed +2d4, Night Vision, Bite Attack (costs 4 AP) | 2 |
+| Shapeknight | Cursed or blessed, you can transform into a large canine, ursine, or feline. | Transformation takes 7 AP, and costs 4 EP per minute. It grants Strength +2d4, +4 AP, Night Vision, Bite Attack (costs 4 AP) | 2 |
 | Vampire | Immortal, you survive on the life force of others. | Immortality, Night Vision, Blood Drain (costs 15 AP, restores HP and EP. The person you drain loses all EP and all but 1 HP) | 2 |
 
 A Box is a collection of skills, stats, abilities, and traits that define a character's strengths, expertise, and role in the game world. Each Box has a cost, typically one Box Point, which determines how many Boxes a character can have.
