@@ -25,7 +25,7 @@
 | Ironborns | Forged in fire, your will is as strong as iron. | Fortitude +3d2, Hit Points +3d4, -1 EP cost for resistance, EP +2d2 | 1 |
 | Giants | Towering and strong, your strength is awe-inspiring. | Strength +5d4, Hit Points +5d4, -1 AP cost for lifting, EP +5d2 | 1 |
 | Firedrake | Powerful and terrifying, you are a dragon, complete with wings and fearsome abilities. | Strength +5d4, Wings (can fly at 3x walking speed), Breath Weapon (costs 7 AP and 1 EP to use), +10d4 to intimidation, +4d6 EP, +4d6 HP | 3 |
-| Shapeknight | Cursed or blessed, you transform into a large canine or feline under the full moon. | Transformation takes 7 AP, and costs 5 EP. and Strength +2d4, Speed +2d4, Night Vision, Bite Attack (costs 4 AP) | 2 |
+| Shapeknight | Cursed or blessed, you transform into a large canine or feline at specific times. | Transformation takes 7 AP, and costs 5 EP. and Strength +2d4, Speed +2d4, Night Vision, Bite Attack (costs 4 AP) | 2 |
 | Vampire | Immortal, you survive on the life force of others. | Immortality, Night Vision, Blood Drain (costs 15 AP, restores HP and EP. The person you drain loses all EP and all but 1 HP) | 2 |
 
 A Box is a collection of skills, stats, abilities, and traits that define a character's strengths, expertise, and role in the game world. Each Box has a cost, typically one Box Point, which determines how many Boxes a character can have.
