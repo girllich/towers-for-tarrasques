@@ -55,6 +55,33 @@ Boxes aren't just about combat and abilities, however. They can also reflect a c
 | Pack Mule | A sturdy beast of burden | Gain a mule which can carry a significant amount of equipment | 0 CP |
 | Scribe | A knowledgeable helper | Gain a scribe who can assist with research and record-keeping | 1 CP |
 | Trained Monkey | A small, nimble creature | Gain a monkey which can fetch small items and perform simple tasks | 1 CP |
+| City Rat | A sharp-eyed and nimble rodent familiar to the city | Gain a rat with stealth and the ability to access small spaces | 0 CP |
+| Pigeon Scout | A common city bird with an uncanny sense of direction | Gain a pigeon that can deliver messages or small items across the city | 1 CP |
+| Stray Cat | An aloof feline with a knack for staying unnoticed | Gain a cat with stealth and night vision, can serve as a lookout | 1 CP |
+| Minor Elemental | A small being of raw elemental energy | Gain an elemental (air, earth, fire, or water) with minor abilities related to its type | 2 CP |
+| Shadow Servant | A semi-corporeal being from the Shadowfell | Gain a shadow with abilities to move unseen and interact with the shadows | 2 CP |
+| Homunculus | A tiny humanoid created through alchemy | Gain a homunculus with the ability to understand commands and perform simple tasks | 2 CP |
+| Imp | A mischievous lesser devil | Gain an imp with minor magical abilities, deceitful nature, and can turn invisible | 2 CP |
+| Inrion | A small dragon-like creature | Gain an Inrion with minor magical abilities and telepathic communication | 3 CP |
+| Arcane Steed | A large crystalline construct created for transportation and protection | Gain a golem which can be ridden, perform manual labor, and has basic combat abilities | 4 CP |
+| Fey Fox | A sly fox from the Feywild | Gain a fox with stealth, heightened senses, and minor fey magic abilities | 2 CP |
+| Ether Spider | An otherworldly arachnid that can weave ethereal webs | Gain a spider with the ability to move through the Ethereal Plane and create ethereal webs | 3 CP |
+| Tendril Horror | A swirling mass of animated tendrils | Gain a Tendril Horror with ability to ensnare, grapple and whip enemies | 8 CP |
+| Howling Wisp | A spectral entity that emits unsettling, distracting noises | Gain a Howling Wisp which can disrupt concentration and disorient enemies | 4 CP |
+| Phase Serpent | A snake-like being that phases in and out of existence | Gain a Phase Serpent which can bypass physical barriers and strike unpredictably | 3 CP |
+| Magma Golem | A lumbering figure of molten rock and flame | Gain a Magma Golem with fire-based attacks and extreme resilience to physical damage | 12 CP |
+| Shard Swarm | A collective of razor-sharp, animated crystal fragments | Gain a Shard Swarm that can slice enemies and form protective barriers | 12 CP |
+| Void Eel | A creature from the spaces between realities, slipping in and out of existence | Gain a Void Eel with the ability to teleport and cause existential dread | 16 CP |
+| Tarling | A large amorphous creature composed of tar-like substance | Gain a Tarling that can engulf and immobilize enemies, and resist physical damage | 4 CP |
+| Wraith Moth | A large moth-like creature with ethereal wings | Gain a Wraith Moth with the ability to cause sleep, create illusions, and fly silently | 8 CP |
+| Iron Scorpion | A giant metal scorpion, animated by arcane energy | Gain an Iron Scorpion with powerful pincers, a deadly tail strike, and impressive armor | 8 CP |
+| Hatescream | An emaciated demon that feeds on fear | Gain a Hatescream with abilities to instill terror and feed on the resulting fear for strength | 3 CP |
+| Gorefiend | A hulking demon with a hunger for blood | Gain a Gorefiend with abilities to drain health from its victims and fortify itself | 12 CP |
+| Woefiend | A demon that thrives on sadness and despair | Gain a Woefiend that can demoralize enemies and gain strength from their sorrow | 8 CP |
+| Spite Sprite | A diminutive demon with a malicious streak | Gain a Spite Sprite that can incite discord and animosity among enemies | 4 CP |
+| Hatebreaker | A towering demon that brings destruction | Gain a Hatebreaker with the power to wreak havoc on structures and landscapes | 20 CP |
+| Redbreath | A demon imbued with infernal fire | Gain a Redbreath that can control and weaponize fire with devastating effects | 8 CP |
+| Maladion | A small demon spreading disease and pestilence | Gain a Maladion capable of infecting enemies with debilitating diseases | 4 CP |
 | Human Level Intelligence | You can add on human level intelligence to each of these. | This allows you to play them as characters, or just have a friend | 1 CP |
 
 Characters can form connections with loyal allies, magical familiars, and majestic mounts. These companions are represented by Companion Points (CP). A character can have any number of companions, as long as the total CP cost does not exceed their maximum CP.
@@ -83,6 +110,7 @@ Items:
 | -Blade | Standard blade design | 1d6 | 0 WP |
 | -Spear | Long reach | +1 to hit, reach of 10 feet | 2 WP |
 | -Glaive | Blade on a pole | +2 to hit, reach of 10 feet, +1 to damage | 3 WP |
+| -Hammer | Heavy and bludgeoning | Adds +3 to damage, -1 to hit, can knock enemies prone | 2 WP |
 | -Disc | Circular blade | -1 AP cost for attacking, +1 to damage roll | 2 WP |
 | Eagle's- | Enchanted with the keenness of an eagle | Adds +2 to hit, +1 to Perception checks | 20 WP |
 | -Mace | A heavy club | Adds +3 to damage roll, -1 to hit | 1 WP |

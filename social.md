@@ -21,3 +21,13 @@ Characters recover all of their SP after a long rest. In addition, they recover 
 | Stir Emotion | Attempt to invoke a specific emotion in your target. | 3 SP, +1 SP per difficulty level | NPC feels a specific emotion |
 | Persuade Crowd | Influence a group of people simultaneously. | 4 SP, +2 SP per person | Multiple NPCs are persuaded |
 | Social Defense | Fortify yourself against all social maneuvers for a short period. | 5 SP | All social defense checks advantage for a short period |
+| Diplomatic Negotiation | You attempt to resolve a dispute or come to an agreement. | 5 SP, +2 SP per difficulty level | Achieve resolution or agreement |
+| Intimidate | You use threats or displays of power to get your way. | 4 SP, +2 SP per difficulty level | NPC becomes scared or submissive |
+| Distract | You attempt to divert attention away from something. | 3 SP, +1 SP per difficulty level | Distract NPC or group of NPCs |
+| Empathize | You connect with someone on an emotional level. | 3 SP, +1 SP per difficulty level | Strengthen bond with NPC |
+| Motivate | You inspire someone to take action or work harder. | 4 SP, +1 SP per difficulty level | NPC becomes motivated |
+| Deescalate | You attempt to calm heightened emotions or a volatile situation. | 3 SP, +1 SP per difficulty level | Calm NPC or group of NPCs |
+| Entertain | You perform to entertain a crowd. | 2 SP, +1 SP per difficulty level | Entertain and potentially influence a crowd |
+| Console | You attempt to comfort someone who is upset. | 2 SP, +1 SP per difficulty level | Comfort NPC, potentially improving their disposition towards you |
+| Debunk | You attempt to disprove a rumor or false belief. | 5 SP, +2 SP per difficulty level | Successfully debunk a rumor or false belief |
+| Flatter | You compliment someone to improve their opinion of you. | 2 SP, +1 SP per difficulty level | Improve an NPC's opinion of you |
