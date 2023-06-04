@@ -2,9 +2,7 @@
 
 The goal of combat is to use your tactics effectively to defeat your enemies, using a combination of movement, attacks, and abilities to outmaneuver and outsmart them. The players can also use teamwork, tactics and strategy to overcome the challenges they face.
 
-## Timeblocks
-
-In this RPG, time is divided into "Timeblocks", which are similar to rounds in other RPGs. During a Timeblock, each character has 9 Points" (AP) to spend on various actions.
+## Action Points
 
 | Action Type | Description                                         | Action Point Cost |
 |-------------|-----------------------------------------------------|-------------------|
@@ -61,69 +59,7 @@ If a character or group is surprised, they may not spend AP on their first timeb
 If a character or group manages to surprise their opponents, they may spend AP as they see fit on their first timeblock of combat.
 In this example, the players have a limited amount of AP per turn, which is 9, and they must use them wisely to move, attack, defend, cast spells and any other action they want to perform. Also, they have the option to increase their Readiness roll by spending some of their AP.
 
-It's important to note that the game director (GD) can adjust the amount of AP per turn, and the costs of actions, depending on their vision of the game.
-
-## During Combat
-
-Roll for readiness at the start of combat: Each character rolls a d20 and adds their Awareness score. The character with the highest total goes first.
-
-Determine Action Points (AP): At the start of each turn, each character receives 9 AP. These can be used for various actions such as moving, attacking, and casting spells.
-
-Take actions: Each character takes their turn in order of readiness, using their AP to perform various actions. For example, a character may move up to their speed in paces, make an attack, or cast a spell.
-
-Resolve Interrupts: Characters may take interrupts as a reaction to certain triggers such as an enemy's attack or spell. Interrupts can be used to disrupt an opponent's action, defend against an incoming attack, or to gain an advantage in combat.
-
-End of turn: Once all characters have taken their turn, the round ends and the next round begins with step 2.
-
-Repeat until combat ends: Combat continues until one side is defeated or until the characters and the GD decide to end it.
-
-## Movement
-
-Movement in this RPG is measured in "paces". A pace is roughly equivalent to one-and-one-half yards, or 150 centimeters. 
-
-Characters can move a number of paces depending on their Ancestry and Calling. For example, a Nimbles Ancestry may move faster than a Giants Ancestry. A Blademaster Calling may move differently than a Soulbinder Calling.
-
-Characters can move in any direction, including diagonally. They can also move through difficult terrain, such as underbrush or over rocky ground, at a reduced pace.
-
-Characters can be in a variety of positions such as standing, crouching, and laying. These positions can affect the character's ability to defend and attack.
-
-Keep in mind that movement and positioning can greatly affect the outcome of combat, and should be considered carefully when making decisions during a fight.
-
-### 3D Movement
-
-In addition to movement on the ground, characters in this RPG can also move in three dimensions, allowing them to climb, fly, and swim.
-
-Climbing: Characters can climb surfaces such as walls and cliffs using their "Endurance" score and a roll for "Climbing". The GD will set the threshold for the climb based on the difficulty of the surface.
-
-Flying: Characters with the ability to fly, such as certain Ancestries or Callings, can move through the air. Their speed and maneuverability are determined by their "Finesse" score and a roll for "Flying".
-
-Swimming: Characters can swim in water using their "Endurance" score and a roll for "Swimming". The GD will set the threshold based on the difficulty of the current.
-
-Keep in mind that movement in three dimensions can greatly affect the outcome of combat, and should be considered carefully when making decisions during a fight.
-
-### How to attack
-
-Action Point cost: Making an attack costs 5 Action Points (AP).
-
-Attack roll: To make an attack, roll a d20 and add your Finesse or Might score. The total is compared to the target's Defense. If your roll equals or exceeds the target's defense, the attack hits.
-
-Damage roll: If the attack hits, roll a damage die appropriate to your weapon or spell and add your Finesse or Might score. The total is subtracted from the target's hit points.
-
-Special effects: Some weapons or spells have special effects such as inflicting status effects or bypassing certain types of defenses.
-
-Critical hits: If the attack roll is a natural 20, it is considered a critical hit and the damage dealt is doubled.
-
-Ancestry and Calling: Ancestry and Calling can affect the attack roll, the damage roll, and the action point cost of the action.
-
 ### Weapon Damage
-
-Damage dice: The damage dealt by a weapon is determined by rolling a set of dice. Each weapon has a specific set of damage dice, such as 2d4, 2d6, or 2d8.
-
-Base damage: The base damage of a weapon is determined by the type of weapon. For example, a dagger might deal 2d4 damage, while a greatsword might deal 2d8 damage.
-
-Ancestry and Calling: Ancestry and Calling can affect the damage dealt by a weapon. For example, a Dragonkin using a sword might deal an extra 1d4 damage, while a Feyblood using a bow might deal an extra 1d6 damage.
-
-Special weapons: Some weapons have special abilities or properties that are not reflected in their damage dice. For example, a weapon may have a chance to stun the target or deal extra damage to a specific type of enemy. Here's some examples:
 
 - "Eclipse Staff" : A staff imbued with dark magic, it deals 2d6 damage and has the ability to drain the life of the target
 - "Gravity Blade" : A sword that manipulates gravity to increase its cutting power, it deals 2d8 damage and has a chance to knock the target off balance
