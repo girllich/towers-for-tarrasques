@@ -22,7 +22,7 @@
 | Stonelords | Solid as a rock, you embody strength and resilience. | Strength +2d2, Hit Points +4d2, -1 EP cost for mining or woodcutting, EP +2d2 | 1 |
 | Elders | Wise and experienced, your knowledge is vast and deep. | Wisdom +4d2, Gain +2d2 minor spells, Lore +3d2, -1 EP cost for knowledge skills | 1 |
 | Feybloods | Touched by the fey, your blood carries magic and charm. | Charisma +2d3, Gain +2d2 minor spells, Persuasion +4d2 | 1 |
-| Ironborns | Forged in fire, your will is as strong as iron. | Fortitude +3d2, Hit Points +3d4, -1 EP cost for resistance, EP +2d2 | 1 |
+| Ironspawn | Forged in fire, your will is as strong as iron. | Fortitude +3d2, Hit Points +3d4, -1 EP cost for resistance, EP +2d2 | 1 |
 | Giants | Towering and strong, your strength is awe-inspiring. | Strength +5d4, Hit Points +5d4, -1 AP cost for lifting, EP +5d2 | 1 |
 | Firedrake | Powerful and terrifying, you are a dragon, complete with wings and fearsome abilities. | Strength +5d4, Wings (can fly at 3x walking speed), Breath Weapon (costs 7 AP and 1 EP to use), +10d4 to intimidation, +4d6 EP, +4d6 HP | 3 |
 | Shapeknight | Cursed or blessed, you transform into a large canine or feline at specific times. | Transformation takes 7 AP, and costs 5 EP. and Strength +2d4, Speed +2d4, Night Vision, Bite Attack (costs 4 AP) | 2 |
