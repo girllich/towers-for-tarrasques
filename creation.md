@@ -1,12 +1,3 @@
-## Races
-
-| Race | Base AP | Base EP |
-|------|---------|---------|
-| Dwarf | 7 | 45 |
-| Elf | 8 | 40 |
-| Human | 7 | 40 |
-| Halfling | 6 | 35 |
-
 ## Boxes
 
 | Box Name | Description | Effects | Cost |
@@ -27,6 +18,12 @@
 | Holy | Devoted to the service of a deity, you command divine power. | Wisdom +2d4, Intelligence +2d2, Religion +5d2, access to 3d6 divine spells, Healing +4d4 | 1 |
 | Ranger | The wilderness is your home; you understand it like no other. | Survival and Nature +3d2, -1 EP cost for Survival, Travel, gain 5 Companion Points | 1 |
 | Leader | With a natural knack for leadership, you inspire and command others. | Charisma +2d2, Leadership skill, 1d4+2 followers | 1 |
+| Nimbles | Agile and quick, you move like the wind. | Agility +3d2, Gain +1 AP, Dodge +4d2, -1 AP cost for evasive actions | 1 |
+| Stonelords | Solid as a rock, you embody strength and resilience. | Strength +5d2, Hit Points +4d2, -1 AP cost for resistance, EP +2d2 | 1 |
+| Elders | Wise and experienced, your knowledge is vast and deep. | Wisdom +4d2, Gain +2d2 minor spells, Lore +3d2, -1 EP cost for knowledge skills | 1 |
+| Feybloods | Touched by the fey, your blood carries magic and charm. | Charisma +2d3, Gain +2d2 minor spells, Persuasion +4d2 | 1 |
+| Ironborns | Forged in fire, your will is as strong as iron. | Fortitude +3d2, Hit Points +3d4, -1 EP cost for resistance, EP +2d2 | 1 |
+| Giants | Towering and strong, your strength is awe-inspiring. | Strength +5d4, Hit Points +5d4, -1 AP cost for lifting, EP +5d2 | 1 |
 | Dragon | Powerful and terrifying, you are a dragon, complete with wings and fearsome abilities. | Strength +5d4, Wings (can fly at 3x walking speed), Breath Weapon (costs 7 AP and 1 EP to use), +10d4 to intimidation, +4d6 EP, +4d6 HP | 3 |
 | Werewolf | Cursed or blessed, you transform into a wolf under the full moon. | Strength +2d4, Speed +2d4, Night Vision, Bite Attack (costs 4 AP and to use) | 2 |
 | Vampire | Immortal and mysterious, you survive on the life force of others. | Charisma +2d4, Unnatural Longevity, Night Vision, Blood Drain (costs 15 AP, restores HP and EP) | 2 |
