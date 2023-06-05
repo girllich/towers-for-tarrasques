@@ -125,3 +125,28 @@ Items:
 | of the Wolverine | Returns health | Returns 1 hp to the wielder each timeblock | 20 WP |
 | of the Unicorn | Enchanted with the purity of a unicorn | Weapon deals double radiant damage, +3 to hit | 35 WP |
 | of the Phoenix | Enchanted with the power of a phoenix | Upon destruction weapon is regenerates after 1d4 days | 40 WP |
+
+
+Skills:
+Lift: Handling heavy objects, lifting, pushing.
+Think: Ability to reason, learn, and comprehend.
+Lie: Persuasion, negotiation, influencing others, Telling lies, pretending, fooling others, seduction
+Cast: Knowledge and use of magic and the arcane
+Stick: Proficiency with stick-like weapons
+Blade: Proficiency with blade-like weapons
+Range: Proficiency with ranged weapons
+Move: Climbing, swimming, jumping long distances.
+Fist: Proficiency with martial arts
+Lead: Commanding, organizing, inspiring others.
+Hunt: Navigating, foraging, hunting, tracking in the wild, knowledge of animals, plants, weather patterns.
+God: Knowledge of deities, religious practices, religious history.
+Heal: Ability to tend wounds, cure diseases, restore health.
+Creep: Moving silently, hiding, avoiding detection.
+Sweep: Tumbling, maintaining balance, acrobatics
+Check: Observing, listening, noticing details.
+Past: Knowledge of past events, societies, and cultures.
+Bard: Dancing, singing, playing musical instruments.
+Pet: Communicating with, training, calming animals.
+Smoke: Knowledge and use of potions, poisons, and explosives.
+Cook: Preparing delicious and nourishing meals.
+Thief: Ability to open locks without the original key.
