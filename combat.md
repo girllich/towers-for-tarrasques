@@ -7,8 +7,6 @@ The goal of combat is to use your tactics effectively to defeat your enemies, us
 | Action Type | Description                                         | Action Point Cost |
 |-------------|-----------------------------------------------------|-------------------|
 | Attack      | Engage an enemy with a physical weapon or hand-to-hand combat | 4 Points         |
-| Cast Minor Spell | Cast a minor spell | 5 Points |
-| Cast Major Spell | Cast a major spell | 10 Points |
 | Move        | Advance 1 yard. Longer distances consume proportionally more points | 1 Point per yard |
 | Dodge       | Avoid an incoming attack or trap | 3 Points         |
 | Use Item    | Use a consumable item, such as a potion or scroll | 2 Points         |
@@ -36,6 +34,8 @@ The goal of combat is to use your tactics effectively to defeat your enemies, us
 | Dragging    | Drag an object or another creature | 1 Point + 2 Points |
 | Sneak       | Move stealthily | 1 Point + 4 Points |
 | Open Door   | Open, or attempt to open, a door | 1 Point       |
+
+For every superogatory Action Point spent on an action, the character gets a +1 bonus to the roll to determine the success of that action.
 
 ### Interrupts:
 
