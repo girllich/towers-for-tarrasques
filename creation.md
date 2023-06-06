@@ -98,7 +98,7 @@ While players are free to play each others' companions, hirelings etc, certain r
 
 Players should discuss and agree on the role and behavior of companions in the game to ensure a fun and balanced experience for everyone. Whether they are used for combat, exploration, or role-playing, companions can add an extra dimension to your RPG adventure
 
-Items:
+Weapons:
 
 | Prefix/Suffix | Description | Effects | Cost |
 |---------------|-------------|---------|------|
@@ -125,6 +125,28 @@ Items:
 | of the Wolverine | Returns health | Returns 1 hp to the wielder each timeblock | 20 WP |
 | of the Unicorn | Enchanted with the purity of a unicorn | Weapon deals double radiant damage, +3 to hit | 35 WP |
 | of the Phoenix | Enchanted with the power of a phoenix | Upon destruction weapon is regenerates after 1d4 days | 40 WP |
+
+Armor:
+
+| Prefix/Suffix | Description | Effects | Cost |
+|---------------|-------------|---------|------|
+| Steel- | Made from sturdy steel | Adds +2 to Armor Class (AC) | 2 WP |
+| -Plate | Full body plate armor | Adds +3 to AC, -1 to Dexterity checks | 2 WP |
+| Light- | Lightweight and flexible | No penalties to Dexterity checks, +1 to AC | 1 WP |
+| -Leather | Made from thick, treated leather | Adds +1 to AC | 1 WP |
+| Silent- | Designed for stealth | No penalties to Stealth checks, +1 to AC | 2 WP |
+| -Chain | Composed of interlocking metal rings | Adds +2 to AC, -1 to Dexterity checks | 2 WP |
+| of the Bear | Enchanted with the endurance of a bear | Adds +1 to AC, +2 to Constitution saves | 20 WP |
+| Dragon's- | Made from the scales of a dragon | Adds +3 to AC, Resistance to fire damage | 40 WP |
+| -Cloak | A simple cloak | Adds +1 to AC, +1 to Stealth checks | 1 WP |
+| of the Phoenix | Enchanted with the resilience of a phoenix | Adds +1 to AC, Resistance to fire damage, heals 1d4 HP once per day | 40 WP |
+| Swift- | Designed for agile movement | No penalties to Dexterity checks, +1 to AC, +1 to Dexterity saves | 3 WP |
+| -Mail | Made from small metal rings | Adds +2 to AC | 2 WP |
+| Ghost's- | Enchanted with the ephemeral nature of a ghost | Adds +2 to AC, user can phase through walls 1x/day | 50 WP |
+| -Greaves | Armor for the legs | Adds +1 to AC, +1 to Strength saves | 2 WP |
+| Turtle's- | Enchanted with the defense of a turtle | Adds +3 to AC, Resistance to piercing damage | 30 WP |
+| -Breastplate | Chest armor | Adds +2 to AC | 2 WP |
+
 
 
 Skills:
