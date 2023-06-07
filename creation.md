@@ -1,33 +1,53 @@
 ## Boxes
 
-| Box Name | Description | Effects | Cost |
-|----------|-------------|---------|------|
-| Strong | Naturally muscular or the result of years of effort | Strength +5d3, Hit Points +2d2, -1 AP cost for lifting, EP +3d2 | 1 |
-| Minor Mage | You've learned the basics of magic | Intelligence +2d4, Gain +3d2 minor spells, +2d2 MP | 1 |
-| Fast | You're fast. | Gain +1 AP | 1 |
-| Charismatic | With a magnetic personality, you can charm and navigate social situations with ease. | Charisma +2d3, Persuasion and Deception +2d2, Minor Wealth, gain the Seduce social action | 1 |
-| Tough | Hardened and sturdy, you're as tough as old tree roots. | Fortitude +2d4, Hit Points +4d4, EP +5d6 | 1 |
-| Master Mage (Requires Minor Mage) | Mastery of a major spell sets you apart as an Master Mage. | Intelligence +1, Gain +1 major spell, +3d2 minor spells, -1 AP cost to spellcasting, +3d4 MP | 1 |
-| Greater Mage (Requires Intermediate Mage) | Mastery of a greater spell crowns you as a Greater Mage. | Gain +1 greater spell, +3d2 major spells, -1 AP cost to spellcasting, -2 EP cost to spellcasting, +4d6 MP | 1 |
-| Expert | Years of dedicated study make you an expert in your field. | Gain +5d3 to a mental skill, +3d3 to 3 other skills, -1 EP to the skill, +8d2 EP | 1 |
-| Weapon Master | A true fighter, you're a master of Martial Arts. | Gain +5d3 to your weapon skill, +2d6 damage to attacks, -1 AP cost, EP +5d4 | 1 |
-| Settled | Having settled down for a while, you have established connections and a place to call home. | Gain a house, 2d20 contacts, and either Minor Wealth or a family (1d4 companion points)| 1 |
-| History of Wealth | Your family has a history of wealth, and you reap its social benefits. | Gain a large rambling house, 3d20 contacts, Minor Wealth, 1 Loyal Servant, +3d2 to 3 Social skills | 1 |
-| Wealth | Affluent and comfortable, you have access to considerable resources. | Major Wealth | 1 |
-| Stone Killer | Training and experience have made you a formidable killer. | Gain the Assassinate action, +3d2 to 3 weapon skills and stealth | 1 |
-| Holy | Devoted to the service of a deity, you command divine power. | Wisdom +2d4, Intelligence +2d2, Religion +5d2, access to 3d6 divine spells, Healing +4d4 | 1 |
-| Ranger | The wilderness is your home; you understand it like no other. | Survival and Nature +3d2, -1 EP cost for Survival, Travel, gain 5 Companion Points | 1 |
-| Leader | With a natural knack for leadership, you inspire and command others. | Charisma +2d2, Leadership skill, 1d4+2 followers | 1 |
-| Nimble | Agile and quick, you move like the wind. | Agility +3d2, Gain +1 AP, Dodge +4d2 | 1 |
-| Stonelord | Solid as a rock, you embody strength and resilience. | Strength +2d2, Hit Points +4d2, -1 EP cost for mining/woodcutting, EP +10d4 | 1 |
-| Elder | Having magically extended your life, you've learned a thing or two in the century since | Wisdom +4d2, Gain +4d2 minor and major spells, Lore +3d2, -1 EP cost for knowledge skills, tripled lifespan | 1 |
-| Lich | You magically and unnaturally made yourself immortal | Intelligence +4d2, Gain +4d2 minor, major, and greater spells, Immortality. You come back in 3 days after you die. | 8 |
-| Feyblood | Touched by the fey, your blood carries magic and charm. | Charisma +2d3, Gain +2d2 minor spells, +4d2 Social Points | 1 |
-| Ironspawn | Forged in fire, your will is as strong as iron. | Fortitude +3d2, Hit Points +3d4, -1 EP cost for resistance, EP +2d2 | 1 |
-| Giant | Towering and strong, your strength is awe-inspiring. | Strength +5d4, Hit Points +5d4, -1 AP cost for lifting, EP +5d2 | 1 |
-| Firedrake | Powerful and terrifying, you are a dragon, complete with wings and fearsome abilities. | Strength +5d4, Wings (can fly at 3x walking speed), Breath Weapon (costs 7 AP and 1 EP to use), +10d4 to intimidation, +4d6 EP, +4d6 HP | 3 |
-| Shapeknight | Cursed or blessed, you can transform into a large canine, ursine, or feline. | Transformation takes 7 AP, and costs 4 EP per minute. It grants Strength +2d4, +4 AP, Night Vision, Bite Attack (costs 4 AP) | 2 |
-| Vampire | Immortal, you survive on the life force of others. | Immortality, Night Vision, Blood Drain (costs 15 AP, restores HP and EP. The person you drain loses all EP and all but 1 HP) | 2 |
+| Box Name | Type | Description | Effects | Cost |
+|----------|------|-------------|---------|------|
+| Strong | Specifics | Naturally muscular or the result of years of effort | Strength +5d3, Hit Points +2d2, -1 AP cost for lifting, EP +3d2 | 1 |
+| Minor Mage | Accomplishments | You've learned the basics of magic | Intelligence +2d4, Gain +3d2 minor spells, +2d2 MP | 1 |
+| Fast | Specifics | You're fast. | Gain +1 AP | 1 |
+| Charismatic | Specifics | With a magnetic personality, you can charm and navigate social situations with ease. | Charisma +2d3, Persuasion and Deception +2d2, Minor Wealth, gain the Seduce social action | 1 |
+| Tough | Specifics | Hardened and sturdy, you're as tough as old tree roots. | Fortitude +2d4, Hit Points +4d4, EP +5d6 | 1 |
+| Master Mage (Requires Minor Mage) | Accomplishments | Mastery of a major spell sets you apart as an Master Mage. | Intelligence +1, Gain +1 major spell, +3d2 minor spells, -1 AP cost to spellcasting, +3d4 MP | 1 |
+| Greater Mage (Requires Intermediate Mage) | Accomplishments | Mastery of a greater spell crowns you as a Greater Mage. | Gain +1 greater spell, +3d2 major spells, -1 AP cost to spellcasting, -2 EP cost to spellcasting, +4d6 MP | 1 |
+| Expert | Accomplishments | Years of dedicated study make you an expert in your field. | Gain +5d3 to a mental skill, +3d3 to 3 other skills, -1 EP to the skill, +8d2 EP | 1 |
+| Weapon Master | Accomplishments | A true fighter, you're a master of Martial Arts. | Gain +5d3 to your weapon skill, +2d6 damage to attacks, -1 AP cost, EP +5d4 | 1 |
+| Settled | Accomplishments | Having settled down for a while, you have established connections and a place to call home. | Gain a house, 2d20 contacts, and either Minor Wealth or a family (1d4 companion points)| 1 |
+| History of Wealth | Origins | Your family has a history of wealth, and you reap its social benefits. | Gain a large rambling house, 3d20 contacts, Minor Wealth, 1 Loyal Servant, +3d2 to 3 Social skills | 1 |
+| Wealth | Specifics | Affluent and comfortable, you have access to considerable resources. | Major Wealth | 2 |
+| Stone Killer | Accomplishments | Training and experience have made you a formidable killer. | Gain the Assassinate action, +3d2 to 3 weapon skills and stealth | 1 |
+| Holy | Accomplishments | Devoted to the service of a deity, you command divine power. | Wisdom +2d4, Intelligence +2d2, Religion +5d2, access to 3d6 divine spells, Healing +4d4 | 1 |
+| Ranger | Specifics | The wilderness is your home; you understand it like no other. | Survival and Nature +3d2, -1 EP cost for Survival, Travel, gain 5 Companion Points | 1 |
+| Leader | Specifics | With a natural knack for leadership, you inspire and command others. | Charisma +2d2, Leadership skill, 1d4+2 followers | 1 |
+| Nimble | Specifics | Agile and quick, you move like the wind. | Agility +3d2, Gain +1 AP, Dodge +4d2 | 1 |
+| Stonelord | Species | Solid as a rock, you embody strength and resilience. | Strength +2d2, Hit Points +4d2, -1 EP cost for mining/woodcutting, EP +10d4 | 1 |
+| Extended | Species | You have magically extended your life, you've learned a thing or two in the century since | Wisdom +4d2, Gain +4d2 minor and major spells, Lore +3d2, -1 EP cost for knowledge skills, tripled lifespan | 1 |
+| Lich | Species | You magically and unnaturally made yourself immortal | Intelligence +4d2, Gain +4d2 minor, major, and greater spells, Immortality. You come back in 3 days after you die. | 8 |
+| Feyblood | Species | Touched by the fey, your blood carries magic and charm. | Charisma +2d3, Gain +2d2 minor spells, +4d2 Social Points | 1 |
+| Ironspawn | Species | Forged in fire, your will is as strong as iron. | Fortitude +3d2, Hit Points +3d4, -1 EP cost for resistance, EP +2d2 | 1 |
+| Giant | Species | Towering and strong, your strength is awe-inspiring. | Strength +5d4, Hit Points +5d4, -1 AP cost for lifting, EP +5d2 | 1 |
+| Firedrake | Species | Powerful and terrifying, you are a dragon, complete with wings, claws, and fire breath. | Strength +5d4, Wings (can fly at 3x walking speed), Breath Weapon (costs 7 AP and 1 EP to use), +10d4 to intimidation, +4d6 EP, +4d6 HP, Size 6 | 3 |
+| Shapeknight | Species | Cursed or blessed, you can transform into a large canine, ursine, or feline. | Transformation takes 7 AP, and costs 4 EP per minute. It grants Strength +2d4, +4 AP, Night Vision, Bite Attack (costs 4 AP) | 2 |
+| Vampire | Species | Immortal, you survive on the life force of others. | Immortality, Night Vision, Blood Drain (costs 15 AP, restores HP and EP. The person you drain loses all EP and all but 1 HP) | 2 |
+| Uranian | Identity | You identify as gay. | Gain a silver brooch that grants you +1 to Stick | 0 |
+| Quaintrelle | Identity | You identify as lesbian. | Gain a spring-loaded dagger that grants you +1 to Cut | 0 |
+| Universite | Identity | You identify as non-binary. | Gain an intricately woven scarf that grants you +1 to Stab | 0 |
+| Kalonymite | Identity | You identify as a gender other than the one you were born with. | Gain an obsidian ring that grants you +1 to Think | 0 |
+| Secondary Kalonymic | Identity | You have been magically reshaped due to your identity. This required both a skilled sorcerer and a lot of time, +3 years| Gain +5 EP | 0 |
+| Primary Kalonymic (Requires Kaolymite and Minor Mage) | Identity | You identified as a gender other than the one you were born with, and learned enough magic to do something about it | +1 Minor Spell (Flesh-Shaping), +5d2 Cast, +7 years | 0 |
+| Dandy | Aesthetic | You prefer a dramatic and eccentric aesthetic. | Gain a plush, decorated top hat | 0 |
+| Rakish | Aesthetic | You embrace a rebellious, unconventional style. | Gain a roguish bandan | 0 |
+| Dapper | Aesthetic | You favor a clean-cut, classic look. | Gain a neat bowler hat | 0 |
+| Bohemian | Aesthetic | You prioritize comfort and individuality over fashion. | Gain a comfy beret | 0 |
+| Arcadian | Aesthetic | You prefer natural, loose-fitting clothing and promote peace. | Gain a straw hat adorned with flowers | 0 |
+| Gallant | Identity | You identify as straight. | Gain a finely crafted signet ring that gives you +1 to Ranged | 0 |
+| Vagabond | Accomplishments | You've lived a few years on the open road. | Gain a backpack, tent, and +3d2 to place | 0 |
+| Titled | Origins | You come from a distantly or closely noble family. You may have money, or you may not. | Gain a seal ring | 0 |
+| Prodigy | Specifics | You have a unique talent or ability. | Gain a +3d4 bonus to a skill of your choice | 1 |
+| Touched | Accomplishments | You've had a supernatural experience. | Gain See Spirit | 0 |
+| Fabled (Requires 3 Accomplishments) | Accomplishments | You're the subject of a local legend. | +3d4 Contacts | 0 |
+| Loyal | Specifics | You have a lifelong companion. | Gain 1 companion point | 0 |
+| Gifted | Specifics | You were or are a magic prodigy | Gain 3d2 major spells | 1 |
+
 
 A Box is a collection of skills, stats, abilities, and traits that define a character's strengths, expertise, and role in the game world. Each Box has a cost, typically one Box Point, which determines how many Boxes a character can have.
 
@@ -75,12 +95,12 @@ Boxes aren't just about combat and abilities, however. They can also reflect a c
 | Tarling | A large amorphous creature composed of tar-like substance | Gain a Tarling that can engulf and immobilize enemies, and resist physical damage | 4 CP |
 | Wraith Moth | A large moth-like creature with ethereal wings | Gain a Wraith Moth with the ability to cause sleep, create illusions, and fly silently | 8 CP |
 | Iron Scorpion | A giant metal scorpion, animated by arcane energy | Gain an Iron Scorpion with powerful pincers, a deadly tail strike, and impressive armor | 8 CP |
-| Hatescream | An emaciated demon that feeds on fear | Gain a Hatescream with abilities to instill terror and feed on the resulting fear for strength | 3 CP |
-| Gorefiend | A hulking demon with a hunger for blood | Gain a Gorefiend with abilities to drain health from its victims and fortify itself | 12 CP |
-| Woefiend | A demon that thrives on sadness and despair | Gain a Woefiend that can demoralize enemies and gain strength from their sorrow | 8 CP |
+| Painscream | An emaciated demon that feeds on fear | Gain a Painscream Demon with abilities to instill terror and feed on the resulting fear for strength | 3 CP |
+| Gorefiend | A hulking demon with a hunger for blood | Gain a Gorefiend Demon with abilities to drain health from its victims and fortify itself | 12 CP |
+| Woefiend | A demon that thrives on sadness and despair | Gain a Woefiend Demon that can demoralize enemies and gain strength from their sorrow | 8 CP |
 | Spite Sprite | A diminutive demon with a malicious streak | Gain a Spite Sprite that can incite discord and animosity among enemies | 4 CP |
-| Hatebreaker | A towering demon that brings destruction | Gain a Hatebreaker with the power to wreak havoc on structures and landscapes | 20 CP |
-| Redbreath | A demon imbued with infernal fire | Gain a Redbreath that can control and weaponize fire with devastating effects | 8 CP |
+| Warbreaker | A towering demon that brings destruction | Gain a Warbreaker Demon with the power to wreak havoc on structures and landscapes | 20 CP |
+| Lord of Hate | A demon imbued with infernal fire | Gain a Lord of Hate that can control and weaponize fire with devastating effects | 8 CP |
 | Maladion | A small demon spreading disease and pestilence | Gain a Maladion capable of infecting enemies with debilitating diseases | 4 CP |
 | Human Level Intelligence | You can add on human level intelligence to each of these. | This allows you to play them as characters, or just have a friend | 1 CP |
 
@@ -107,6 +127,8 @@ Weapons:
 | War- | Designed for warfare | Adds +1 damage points, +2 to hit | 2 WP |
 | Strong- | Hefty and strong | Adds +2 damage points, +2 AP c | 2 WP |
 | Swift- | Feather light and swift | -1 AP cost for attacking, +1 to hit | 2 WP |
+| Claw- | Curved and nasty | +1 to damage | 2 WP |
+| Sickle- | Curved and sharp | +3 to damage | 2 WP |
 | -Blade | Standard blade design | 1d6 | 0 WP |
 | -Spear | Long reach | +1 to hit, reach of 10 feet | 2 WP |
 | -Glaive | Blade on a pole | +2 to hit, reach of 10 feet, +1 to damage | 3 WP |
@@ -149,14 +171,15 @@ Armor:
 
 
 
-Skills:
+Strengths:
 Lift: Handling heavy objects, lifting, pushing.
-Think: Ability to reason, learn, and comprehend.
-Lie: Persuasion, negotiation, influencing others, Telling lies, pretending, fooling others, seduction
+Think: Ability to reason, learn, and comprehend
+Lie: Persuasion, negotiation, influencing others, lies, pretending, acting, and seduction
 Cast: Knowledge and use of magic and the arcane
-Stick: Proficiency with stick-like weapons
-Blade: Proficiency with blade-like weapons
-Range: Proficiency with ranged weapons
+Beat: Proficiency with stick-like weapons, with and without blades
+Stab: Proficiency with short blade-like weapons
+Cut: Proficiency with long blade-like weapons
+Shoot: Proficiency with ranged weapons
 Move: Climbing, swimming, jumping long distances.
 Fist: Proficiency with martial arts
 Lead: Commanding, organizing, inspiring others.
@@ -169,6 +192,6 @@ Check: Observing, listening, noticing details.
 Past: Knowledge of past events, societies, and cultures.
 Bard: Dancing, singing, playing musical instruments.
 Pet: Communicating with, training, calming animals.
-Smoke: Knowledge and use of potions, poisons, and explosives.
+Smoke: Knowledge and use of potions, poisons, drugs, and explosives.
 Cook: Preparing delicious and nourishing meals.
-Thief: Ability to open locks without the original key.
+Steal: Ability to open locks without the original key.

@@ -1,6 +1,6 @@
 # Physical Combat
 
-The goal of combat is to use your tactics effectively to defeat your enemies, using a combination of movement, attacks, and abilities to outmaneuver and outsmart them. The players can also use teamwork, tactics and strategy to overcome the challenges they face.
+The goal of combat is to to defeat your enemies, either permanently or temporarily. 
 
 ## Action Points
 
@@ -47,32 +47,11 @@ An Interrupt Strike is a special type of interrupt that can be taken when an opp
 Characters that are trained in combat and have the ability to take Interrupt Strikes can make an attack against an opponent who moves out of a protected zone without using the shift action or if an opponent within their reach uses a ranged weapon.
 The Interrupt Strike costs 1 AP. Characters with the ability to make Interrupt Strikes can make them even if they have already used all of their AP for the turn. 
 
-## Before Combat
+### Before Combat
 
-Before Combat:
+Each character starts with 7 AP at the start of the first timeblock, and at the top of each subsequent timeblock. These AP can't be used until it's the character's turn unless you're using an interrupt. Before their first turn, players roll for Readiness to determine the order of actions during the first timeblock of combat. Players may choose to spend some of their first round AP to increase their Readiness roll before combat begins.
 
-Each character starts with 7 AP at the start of the first timeblock, and at the top of each subsequent timeblock. These AP can't be used until it's the character's turn unless you're using an interrupt. Before their first turn, players roll for Readiness to determine the order of actions during the first timeblock of combat.Players may choose to spend some of their AP to increase their Readiness roll before combat begins.
+### Surprise:
 
-Surprise:
-
-If a character or group is surprised, they may not spend AP on their first timeblock of combat.
-If a character or group manages to surprise their opponents, they may spend AP as they see fit on their first timeblock of combat.
-In this example, the players have a limited amount of AP per turn, which is 9, and they must use them wisely to move, attack, defend, cast spells and any other action they want to perform. Also, they have the option to increase their Readiness roll by spending some of their AP.
-
-### Weapon Damage
-
-- "Eclipse Staff" : A staff imbued with dark magic, it deals 2d6 damage and has the ability to drain the life of the target
-- "Gravity Blade" : A sword that manipulates gravity to increase its cutting power, it deals 2d8 damage and has a chance to knock the target off balance
-- "Frostbite Gauntlets" : Gauntlets that can freeze the air around them, they deal 2d6 damage and have a chance to freeze the target in place
-- "Vortex Shield" : A shield that can create a vacuum, it deals 2d4 damage and has a chance to suck the target in
-- "Thunderbolt Bow" : A bow that can shoot lightning bolts, it deals 2d6 damage and has a chance to stun the target
-
-Normal Weapons:
-
-- "Hammerfist" : A gauntlet with a built-in hammer weight. It deals 2d6 Hard damage. 
-- "Clawpin" : A gauntlet with two blades set around a steel wristlet like a crab's claws. This weapon deals 2d8 Sharp damage, and grants a +3 bonus to Disarm attacks.
-- "Sicklespear" : A spear with a curved sickle that is mounted on a stick. This weapon deals 2d10 Sharp damage, and grants a +3 bonus to Restrict attacks. It's generally used by druid warriors.
-- "Pennywhip": A smaller whip on a short stick with a swarm of tiny razorblades on foot-long strings. It's used by the rougher folk of urban environments. The pennywhip does 2d4 Sharp damage.
-- "Glaiveblade": A long polearm with a curved, single-edged blade on one end. It's used by infantry and cavalry alike. The glaiveblade deals 2d6 Sharp damage and grants a +3 bonus to Trip attacks.
-
+If a character or group is surprised, they may not spend AP on their first timeblock of combat. If a character or group manages to surprise their opponents, they have double AP on their first timeblock of combat.
 

@@ -2,11 +2,7 @@ Social Points System Overview
 
 Each character has a pool of Social Points (SP), similar to Action Points or Effort Points. These points represent a character's ability to influence others, win friends, and come out on top in social situations. SP can be spent to gain bonuses on social skill checks, activate special social maneuvers, and resist social pressure from others.
 
-Social Points are based on the character's Charisma score plus any additional bonuses from their background, class, or race. A character's maximum SP is equal to their Charisma score + 10.
-
-For example, a character with a Charisma score of 14 would have a maximum of 24 SP.
-
-Characters recover all of their SP after a long rest. In addition, they recover a number of SP equal to their Charisma modifier after a short rest. If a character's SP drops to zero, they become socially Exhausted and suffer a disadvantage on all social skill checks until they take a short or long rest.
+Characters recover all of their SP after an extended pause. In addition, they recover a number of SP equal to their Charisma modifier after a pause. If a character's SP drops to zero, they become socially Exhausted and suffer a disadvantage on all social skill checks until they rest or pause.
 
 | Social Maneuver | Description | Cost | Effect |
 |-----------------|-------------|------|--------|
